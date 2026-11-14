@@ -1,0 +1,119 @@
+{
+  "plugin": {
+    "totalDownloads": 47,
+    "stargazers": 1,
+    "createdAt": "2026-10-02T07:02:20Z",
+    "latestReleaseAt": "2026-11-04T07:36:23Z",
+    "lastCommitDate": "2026-11-12T18:58:41Z",
+    "commitCountInLast24Months": 23,
+    "totalReleases": 5,
+    "releases": [
+      {
+        "publishedAt": "2026-10-02T07:04:37Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-10-02T14:06:39Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-10-26T19:10:02Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-11-03T11:14:06Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-11-04T07:36:23Z",
+        "downloads": 30
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2026-11-03T08:20:45Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-03T08:49:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-03T08:49:34Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-03T08:49:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T06:33:55Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T06:33:57Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T06:37:48Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T06:56:23Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T06:58:51Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-05T07:58:28Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-11T07:53:50Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-11-11T09:28:35Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-11-03T08:40:14Z",
+        "closedAt": "2026-11-03T08:51:25Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-11-03T12:41:52Z",
+        "closedAt": "2026-11-03T12:58:03Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-11-05T06:32:01Z",
+        "closedAt": "2026-11-05T06:57:23Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-11-05T06:33:53Z",
+        "closedAt": "2026-11-05T07:47:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-11-12T18:00:54Z",
+        "closedAt": "2026-11-12T18:58:40Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-11-14T03:39:11.689Z"
+}
